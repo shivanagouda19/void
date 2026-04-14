@@ -1,0 +1,23 @@
+# Compiled files
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+target/
+out/
+build/
+
+# Logs
+*.log
+notes.txt
